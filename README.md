@@ -1,4 +1,11 @@
-# Introduction to Python and IPython Notebooks
+## Introduction to Python and IPython Notebooks
+
+Begin by cloning this repo to a new directory on your computer.
+
+* Make a new directory
+* Open a Command Tool (Windows) or Terminal (Mac, Linux)
+* type `git clone ` and then the url noted on the right of this window.
+
 
 To use iPython Notebooks, always do the following:  
 
